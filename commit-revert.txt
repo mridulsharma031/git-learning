@@ -1,0 +1,2 @@
+To add a file in staging area use: git add <file_name>
+To commit a file in the staging area we can use: git commit -m <file_name>
